@@ -1,0 +1,15 @@
+probleme 1 
+algorithme array
+pour i de 1 a n faire
+lire (t1[i])
+fin pour
+pour j de 1 a n faire
+lire (t2[j])
+fin pour
+s=0     
+pour i de 1 a n faire
+pour j de 1 a n faire 
+si (t1[i] = t2[j]) faire 
+lire t3[e]
+sinon 
+s=s+i
