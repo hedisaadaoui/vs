@@ -1,12 +1,9 @@
-algorithme tableau 
-debut 
-t=tab 
-i=entier 
-j=entier
-pour i de 0 a n-1 faire 
-pour j de 0 a n-i-1 faire
-si (tab[i]>tab[j+1]) alors
-swap( tab[i],tab[j+1])
-fin pour 
-finsi 
-fin
+checkpoint
+algorithme chaine 
+debut
+lire (ch)
+p=ch/2
+pour i de 1 a ch.length faire 
+si ch[1] = ch[n] alors
+i++ et n=n-1
+
