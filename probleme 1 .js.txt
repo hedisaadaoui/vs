@@ -1,9 +1,0 @@
-checkpoint
-algorithme chaine 
-debut
-lire (ch)
-p=ch/2
-pour i de 1 a ch.length faire 
-si ch[1] = ch[n] alors
-i++ et n=n-1
-

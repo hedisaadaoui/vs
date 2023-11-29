@@ -1,0 +1,26 @@
+#a{
+    position: absolute;
+    left: 500px;
+    color: blue;
+
+}
+img{
+    position: absolute;
+    left: 550px;
+    
+}
+h1{
+    position: absolute;
+    left: 515px;
+    color: blue;
+}
+p{
+    position: absolute;
+    left: 220px;
+    color: brown;
+
+}
+button{
+    position: absolute;
+    left: 570px;
+}
